@@ -1,0 +1,647 @@
+[
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558524570371,
+            "changeTime": 1558524570371,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558524570371,
+            "changeTime": 1558524570371,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558596672744,
+            "changeTime": 1558596672744,
+            "contentHash": "664df5164d7d4795adfb515652814c046a265226",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558600533202,
+            "changeTime": 1558600533202,
+            "isWorkspace": false,
+            "contentHash": "c13a9629e82a9ed898d684cd6902fe5aa87057a3"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558524570371,
+            "changeTime": 1558524570371,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558600247139,
+            "changeTime": 1558600247139,
+            "contentHash": "8f971d1868a5a602d918bb021a93159bbe5bd68d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2144,
+            "modifiedTime": 1558525079911,
+            "changeTime": 1558525079911,
+            "contentHash": "70307848384540cd2330c417883f91d2096567dd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 982,
+            "modifiedTime": 1558525079926,
+            "changeTime": 1558525079926,
+            "contentHash": "89ee83e3dab5ed015b09a445dff0f10ed9f32afc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1558525079926,
+            "changeTime": 1558525079926,
+            "contentHash": "893ff2d0dfed962ec37baf5757bc69a119b7a532",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1558525079942,
+            "changeTime": 1558525079942,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2931,
+            "modifiedTime": 1558525079973,
+            "changeTime": 1558525079973,
+            "contentHash": "5a8e7706cb5101f13d46ce0a1d4d8bafc1f35126",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1558525079973,
+            "changeTime": 1558525079973,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5314,
+            "modifiedTime": 1558525079989,
+            "changeTime": 1558525079989,
+            "contentHash": "d350a6c7239d2e66603f7741cf3ff587108c39ca",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19693,
+            "modifiedTime": 1558525080004,
+            "changeTime": 1558525080004,
+            "contentHash": "561c745196de852dbd93f57e22abd09813101e58",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4976,
+            "modifiedTime": 1558525080020,
+            "changeTime": 1558525080020,
+            "contentHash": "85ca84dff59b373e68ea89dfbab300ba0f38b85a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4976,
+            "modifiedTime": 1558525080035,
+            "changeTime": 1558525080035,
+            "contentHash": "85ca84dff59b373e68ea89dfbab300ba0f38b85a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558525079926,
+            "changeTime": 1558525079926,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558525079911,
+            "changeTime": 1558525079911,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558525079926,
+            "changeTime": 1558525079926,
+            "contentHash": "b2e2f7b67d9d9fc60c14d64f8a468f53c24a9e26",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558525079942,
+            "changeTime": 1558525079942,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558525079957,
+            "changeTime": 1558525079957,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558525079973,
+            "changeTime": 1558525079973,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558525080035,
+            "changeTime": 1558525080035,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558597216953,
+            "changeTime": 1558597216953,
+            "contentHash": "da96db5fc418edc242454d3c266786b628188ceb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\classes\\AccountSearchController.cls",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\classes\\AccountSearchController.cls",
+            "isDirectory": false,
+            "size": 686,
+            "modifiedTime": 1558597241327,
+            "changeTime": 1558597241327,
+            "contentHash": "d1dcf41bde3f5a7fa80390ae810cbd05c7fea9a9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\classes\\AccountSearchController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\classes\\AccountSearchController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1558597216954,
+            "changeTime": 1558597216954,
+            "contentHash": "7a3e4b514776ce7cf897d7fa898d29e5e3fd537b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountLoaded",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountLoaded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558597385713,
+            "changeTime": 1558597385713,
+            "contentHash": "48b4176a8abd98dc1c53698a63005ae2bff62570",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountLoaded\\AccountLoaded.evt",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountLoaded\\AccountLoaded.evt",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1558599997945,
+            "changeTime": 1558599997945,
+            "contentHash": "edd351cae124f284c4d10d233569467b6dff15b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountLoaded\\AccountLoaded.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountLoaded\\AccountLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1558597385713,
+            "changeTime": 1558597385713,
+            "contentHash": "6f4ca7c2f41295e8ba694e7d32e7a306dec16a48",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558600043713,
+            "changeTime": 1558600043713,
+            "contentHash": "6227727dd56c9132b79b4e908af55410217dd161",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.auradoc",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1558600043712,
+            "changeTime": 1558600043712,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp",
+            "isDirectory": false,
+            "size": 675,
+            "modifiedTime": 1558600492182,
+            "changeTime": 1558600492182,
+            "contentHash": "900fdcaa44b1d9ac7d201b44d7d549f23baee0f7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1558600043703,
+            "changeTime": 1558600043703,
+            "contentHash": "e26e2fd23ab89fff52b5cf5beacdaf7ba916b560",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.css",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1558600043708,
+            "changeTime": 1558600043708,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.design",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1558600043714,
+            "changeTime": 1558600043714,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.svg",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1558600043711,
+            "changeTime": 1558600043711,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchController.js",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchController.js",
+            "isDirectory": false,
+            "size": 487,
+            "modifiedTime": 1558600292864,
+            "changeTime": 1558600292864,
+            "contentHash": "13027262dcc1712cd28ca027dd25c94f76c78c5b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
+            "isDirectory": false,
+            "size": 576,
+            "modifiedTime": 1558600311839,
+            "changeTime": 1558600311839,
+            "contentHash": "1099d44373daeff075b8ba717c57e475fd3a0b60",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1558600043709,
+            "changeTime": 1558600043709,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558600533262,
+            "changeTime": 1558600533262,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1558600533239,
+            "changeTime": 1558600533239,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 582,
+            "modifiedTime": 1558600648763,
+            "changeTime": 1558600648763,
+            "contentHash": "e235896d1c01122a268e8b43159562573347724b"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1558600533227,
+            "changeTime": 1558600533227,
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1558600533233,
+            "changeTime": 1558600533233,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1558600533262,
+            "changeTime": 1558600533262,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1558600533237,
+            "changeTime": 1558600533237,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1397,
+            "modifiedTime": 1558600597172,
+            "changeTime": 1558600597172,
+            "contentHash": "dfcfc9e349672e9d93db610da040f856db5bf1ad"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1558600533231,
+            "changeTime": 1558600533231,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\prjectTrailhead1\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1558600533235,
+            "changeTime": 1558600533235,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
